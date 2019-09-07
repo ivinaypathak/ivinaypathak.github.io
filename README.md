@@ -1,2 +1,0 @@
-# ivinaypathak.github.io
-portfolio
