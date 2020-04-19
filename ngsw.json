@@ -1,0 +1,158 @@
+{
+  "configVersion": 1,
+  "timestamp": 1587284560384,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/1-es2015.d474c36d7028d0d84bc8.js",
+        "/1-es5.d98f55f9340b5471025c.js",
+        "/10-es2015.2e1a9b02be49a4c9071d.js",
+        "/4-es5.3b72eea1c0a1ab931a99.js",
+        "/5-es2015.a26211e9713f91e6aba0.js",
+        "/5-es5.2a344de4f001d0970ff7.js",
+        "/6-es2015.428aefaee7e1ed383802.js",
+        "/6-es5.b5cb7e465ab9be9fcd3c.js",
+        "/7-es2015.60918fe5b87504941978.js",
+        "/7-es5.162d2c99129caf666744.js",
+        "/8-es2015.198ac1b8504459c812e1.js",
+        "/8-es5.c2a7d7a586a6d7318269.js",
+        "/9-es2015.29be8f1351fff9af7060.js",
+        "/9-es5.c8a64b3221a2dc9b87de.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.ba38c9d31f291d3e300d.js",
+        "/main-es5.9809d0056d8e1bbb3e18.js",
+        "/polyfills-es2015.ebde9a88625fdb27ec0e.js",
+        "/polyfills-es5.5a263fafea0e75638677.js",
+        "/runtime-es2015.3416ee2c65e5ae109c87.js",
+        "/runtime-es5.7a1f1dd42a2e149ca386.js",
+        "/styles.39cfe26cfe8dcc6e8da6.css"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/css\\?family=Roboto:300,400,500&amp;display=swap",
+        "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/Joule_Lab_Internship.jpg",
+        "/assets/Joule_Lab_Internship_Vinay.jpg",
+        "/assets/Vinay_Pathak_Infosys_Internship.PNG",
+        "/assets/Vinay_Pathak_Internship.jpg",
+        "/assets/Vinay_Pathak_Joule_Labs.PNG",
+        "/assets/angular.svg",
+        "/assets/c.png",
+        "/assets/data_structure.png",
+        "/assets/github-logo.svg",
+        "/assets/hackerrank.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/infosys.png",
+        "/assets/java.svg",
+        "/assets/javascript.svg",
+        "/assets/linkedin.svg",
+        "/assets/loading.gif",
+        "/assets/sql.svg",
+        "/assets/vicky.jpg",
+        "/assets/wallpaper.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "posts",
+      "patterns": [
+        "https:\\/\\/portfolio-f59fc\\.firebaseio\\.com\\/data\\.json",
+        "\\/.*"
+      ],
+      "strategy": "freshness",
+      "maxSize": 5,
+      "maxAge": 21600000,
+      "timeoutMs": 10000,
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/1-es2015.d474c36d7028d0d84bc8.js": "3734599b4bf92024d12beb26910e68fc057399be",
+    "/1-es5.d98f55f9340b5471025c.js": "aec8641f9e62d993b6a11a9d64d3e5d4f73eacbf",
+    "/10-es2015.2e1a9b02be49a4c9071d.js": "a2b38e6ce7270b0ac62e7936446504b59e97a414",
+    "/4-es5.3b72eea1c0a1ab931a99.js": "401d69fd2643043799ef51285167f9f9882e2a9f",
+    "/5-es2015.a26211e9713f91e6aba0.js": "1dce881d39883446accba6d16b42e63ede8437a7",
+    "/5-es5.2a344de4f001d0970ff7.js": "c6f54463fd386a21e9527a6b3e3c92048967714d",
+    "/6-es2015.428aefaee7e1ed383802.js": "b529d1daf3d2dc06387b1c466ce0c403a461f029",
+    "/6-es5.b5cb7e465ab9be9fcd3c.js": "df30b8ae357fbb999b63937c97236a0fe86af4a5",
+    "/7-es2015.60918fe5b87504941978.js": "51f2c3c6b96cead260e4c5b48144733271934e46",
+    "/7-es5.162d2c99129caf666744.js": "706f7dda0262197b62a85132df35dda31825280c",
+    "/8-es2015.198ac1b8504459c812e1.js": "479bb4a2487b290f2ddb46c6becf5da6b2cd4c43",
+    "/8-es5.c2a7d7a586a6d7318269.js": "ac2fbbe7f62829d853515997aab76cc13dbb3bf8",
+    "/9-es2015.29be8f1351fff9af7060.js": "35a95a21b424d2e4ba6348460a58e8f7c047139a",
+    "/9-es5.c8a64b3221a2dc9b87de.js": "ef499fc586972bfa410fd9ad33104a09222dc1ea",
+    "/assets/Joule_Lab_Internship.jpg": "a03a1be0f031c3e93177e26a397e9105a20f0795",
+    "/assets/Joule_Lab_Internship_Vinay.jpg": "bc53fcd75f76fb21291e8f592dbd4ea31874ef3f",
+    "/assets/Vinay_Pathak_Infosys_Internship.PNG": "7293e33a53b2ef400070368e787c7b6343d2bbb3",
+    "/assets/Vinay_Pathak_Internship.jpg": "40d54f6270ee1e8907d81fcade389859e524a393",
+    "/assets/Vinay_Pathak_Joule_Labs.PNG": "5780d5326d91ae7a96d9dc641fb8658dea8cb462",
+    "/assets/angular.svg": "9d179562dee9592b9a88dd4705734950b055ef0a",
+    "/assets/c.png": "dd0060474f790fb0a4d1e4d3a045169d3bfcaa85",
+    "/assets/data_structure.png": "8fc62dd6dc28136e8b854d44edf4c8a8c0719fc9",
+    "/assets/github-logo.svg": "9f2604df2bf8ec1190947bba1cfacb70562f89b1",
+    "/assets/hackerrank.svg": "621f94b46281ba39ca423f73248ec01b3a0c42d0",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/infosys.png": "5dc43523216110b8869821d6eccfe2c01e719669",
+    "/assets/java.svg": "ad79d4a5ce7ceca4f80f1dd11d74769d5aa87dd5",
+    "/assets/javascript.svg": "e336e2d67b2b7ee10a5eda0a7f8774919d415b3b",
+    "/assets/linkedin.svg": "6abee2907bc6b40a3ba551877cfac2361d9ca004",
+    "/assets/loading.gif": "338149669efcdf177a2a619a0613a5ee3dd4fb15",
+    "/assets/sql.svg": "71f6ad7fc36b34340072872c301d24b60f1f2b56",
+    "/assets/vicky.jpg": "d375c775601ca5a449698f797569cce26af9d077",
+    "/assets/wallpaper.png": "2bf39bfc25f47b4abfb84d97fc27d38c1782edf3",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "9bd28ce1509fb97a33468e7c4bc19302c43fa2d5",
+    "/main-es2015.ba38c9d31f291d3e300d.js": "bbca9c3091177f569a72f304643a9a61733b8756",
+    "/main-es5.9809d0056d8e1bbb3e18.js": "46970aca71a47a31b12798b54c1e25ed981c0f1f",
+    "/polyfills-es2015.ebde9a88625fdb27ec0e.js": "8788702b8f87d9e6991f96cac0c252c355113762",
+    "/polyfills-es5.5a263fafea0e75638677.js": "2a622d7f430083b6803dd1b7f3125c1a009e448c",
+    "/runtime-es2015.3416ee2c65e5ae109c87.js": "f3facaf35956886427ca1f9b4b70c11cb3ef76da",
+    "/runtime-es5.7a1f1dd42a2e149ca386.js": "44dfb20d0f284b573cc052ec440ceea2a123a621",
+    "/styles.39cfe26cfe8dcc6e8da6.css": "fdf86e589681a8465cac2f135abb82ebd15aa4c7"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
